@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Hardik%20Sehgal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hardik Sehgal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Hardik%20Sehgal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Building%20AI%20Products&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hardik Sehgal" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=SDE+2+%40+oMazons+%C2%B7+business-critical+CRM;Founding+Engineer+%40+GradGuide+(2025-26);Voice+AI+interviews+%C2%B7+RAG+%C2%B7+vector+search;TypeScript+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Postgres" alt="Typing intro" /></a>
+<a href="https://www.hardiksehgal.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=660&lines=SDE+2+%40+oMazons+%C2%B7+orders%2C+returns%2C+warehouse;Founder+%40+Jobs+Mili+%C2%B7+AI+voice+interviews;Founding+Engineer+%40+LastLab+AI+%C2%B7+papers+to+labs;Heading+toward+AI+infrastructure+%26+sandboxes" alt="Typing intro" /></a>
 
 <p>
+  <a href="https://www.hardiksehgal.com"><img src="https://img.shields.io/badge/hardiksehgal.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/hardik-sehgal-8086731b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hashnode.com/@hardiksehgal"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   <a href="mailto:jobs.hardik00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@hardiksehgal00"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <img src="https://img.shields.io/badge/Mumbai,_India-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Mumbai, India" />
 </p>
 
 </div>
@@ -18,45 +18,61 @@
 ```ts
 const hardik = {
   role:       "Full-Stack Software Engineer",
-  now:        "SDE 2 @ oMazons",          // since May 2026
-  previously: ["Founding Engineer @ GradGuide", "SDE 1 @ IAI Solution"],
+  now:        ["SDE 2 @ oMazons", "Founder @ Jobs Mili", "Founding Engineer @ LastLab AI"],
+  previously: ["Founding Engineer @ GradGuide", "SDE 1 @ IAI Solutions"],
   experience: "~2 years",
-  focus:      ["production CRMs", "voice AI", "RAG & vector search", "LLM pipelines"],
-  location:   "Mumbai, India",
-  openTo:     "interesting full-stack and applied-AI problems",
+  education:  "B.Tech Computer Engineering, BVCOE Pune (CGPA 8.92)",
+  headingTo:  ["AI infrastructure", "sandboxed code execution", "security boundaries"],
+  offline:    ["street theatre", "writing", "fitness"],
 };
 ```
 
-I like owning things end to end: schema, API, UI, deploy, and the bug report that comes back a week later. Most of my work sits where real money or real users are on the line, so I care a lot about correctness, tests that check the right thing, and code the next person can read.
+I went from founding engineer at an early-stage startup to SDE 2 on production systems that move real orders and real money. On the side I'm building two live AI products: one gives every job applicant a real first-round interview, the other turns research papers into hands-on labs.
 
 ## What I'm working on
 
-- 🏢 **oMazons (SDE 2)** &nbsp;Building and maintaining the CRM that runs daily operations: order tracking, returns, supplier cancellation sync, label purchasing and cost optimization, warehouse analytics and dashboards. TypeScript monorepo with tRPC, Prisma, Postgres, Vue and scheduled jobs.
-- 🎙️ **JustHired** &nbsp;An AI hiring platform where candidates sit a hands-free, spoken technical interview with a voice agent, and employers get a rubric-based evaluation. Real-time audio with Deepgram Voice Agent, echo handling, multi-tenant orgs and roles, Postgres + Prisma, BullMQ.
-- ✍️ Writing about what I learn on [Medium](https://medium.com/@hardiksehgal00).
+- 🏢 **oMazons (SDE 2)** &nbsp;Shipped **19 production features** on the platform that runs daily operations: orders, supplier purchasing, returns, shipping and warehouse. Automated cancellation and refund tracking across **4 retail suppliers** plus one-click return labels (**~8 hrs/week** of manual work gone), and label-purchase optimization that saves **~5% of total revenue**.
+- 🎙️ **[Jobs Mili](https://jobsmili.com) (Founder, sole engineer)** &nbsp;An AI voice agent runs the first-round interview for every applicant, so candidates are judged on how they think, not how their resume reads.
+- 🧪 **[LastLab AI](https://www.lastlabai.com) (Founding Engineer)** &nbsp;Upload a paper or arXiv link and get a runnable lab: Jupyter notebook, notes, quizzes, flashcards and a mind map.
+- ✍️ Writing about software engineering on [Hashnode](https://hashnode.com/@hardiksehgal).
 
 ## Experience
 
 | Role | Company | When | Highlights |
 | :--- | :--- | :--- | :--- |
-| **SDE 2, Full-Stack** | oMazons | May 2026 - now | Returns, order and supplier-status sync, shipping label cost optimization, warehouse analytics, role-based permissions |
-| **Founding Engineer** | GradGuide by Computrain | Jul 2025 - Apr 2026 | Engineer #1. Student CRM from zero (FastAPI, Next.js, RBAC, GCS). Semantic search over 1,600+ German courses with Qdrant and an async LLM pipeline on Redis RQ |
-| **SDE 1** | IAI Solution | Sep 2024 - Jun 2025 | Led the frontend of an AI audit platform (React, Next.js, SSR), +25% performance and usability. Docker + GitHub Actions CI/CD |
+| **SDE 2, Full-Stack** | oMazons | May 2026 - now | 19 features shipped; supplier cancellation and refund automation; label cost optimization (~5% of revenue); margin review and warehouse dispatch analytics. TypeScript, Vue, Fastify, Prisma, PostgreSQL |
+| **Founding Engineer** | GradGuide by Computrain | Jul 2025 - Apr 2026 | Student CRM from scratch serving **500+ students** (FastAPI, Next.js, RBAC). AI course discovery over **1,600+ German programs** with Qdrant vector search and an async LLM pipeline |
+| **SDE 1** | IAI Solutions | Sep 2024 - Jun 2025 | Led the frontend of an AI auditing platform (Next.js, TypeScript); auth, document submission, Docker and GitHub Actions CI |
 
-## Featured projects
+## Live products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ JustHired
-AI voice interview and hiring platform. JD-based questions with adaptive follow-ups, spoken end to end, scored against a per-job rubric.
+### 🎙️ [Jobs Mili](https://jobsmili.com)
+AI hiring platform. Real-time spoken interviews, LLM scoring against job-specific rubrics with per-question breakdowns, and integrity checks (tab switches, face presence, device drops) that are shown to the recruiter but never auto-reject. A human makes every hiring call.
 
-`Next.js` `tRPC` `Postgres` `Prisma` `Deepgram` `BullMQ`
+`Next.js` `Express` `tRPC` `Prisma` `PostgreSQL` `BullMQ` `Google Cloud`
 
-<sub>Earlier Python prototype: [Interview-AI](https://github.com/hardiksehgal2/Interview-AI) (FastAPI, OpenCV anti-cheat, Neo4j + Mem0 memory)</sub>
+<sub>Grew out of my academic prototype, [Interview-AI](https://github.com/hardiksehgal2/Interview-AI).</sub>
 
 </td>
+<td width="50%" valign="top">
+
+### 🧪 [LastLab AI](https://www.lastlabai.com)
+Research-to-lab platform: learners understand a paper by running it, not just reading it. I work on core parts of the web app: the in-browser paper viewer (continuous scroll, zoom, search), editable notes with live math rendering, auth routing and settings.
+
+`Next.js` `TypeScript` `Supabase` `Jupyter`
+
+</td>
+</tr>
+</table>
+
+## Open-source projects
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧾 [InvoiceHub](https://github.com/hardiksehgal2/InvoiceHub)
@@ -65,22 +81,12 @@ Full-stack invoice management: create, paginate, update status, export to PDF. F
 `Fastify` `TypeScript` `Prisma` `Zod` `React PDF` `Vitest`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ✅ [Task Manager](https://github.com/hardiksehgal2/Task-manager)
-Kanban task board with secure JWT auth: short-lived access tokens, hashed refresh tokens, silent refresh, edge route protection. [Live demo](https://task-manager-phi-green.vercel.app/)
+Kanban board with secure JWT auth: short-lived access tokens, hashed refresh tokens, silent refresh, edge route protection. [Live demo](https://task-manager-phi-green.vercel.app/)
 
 `Next.js` `Express` `JWT` `Axios` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [Portfolio](https://github.com/hardiksehgal2/Hardik-Portfolio)
-Terminal-themed personal site with scroll-driven case studies and a fully static fake CLI. Dark first, with a "printed manual" light mode.
-
-`Next.js 16` `TypeScript` `Tailwind v4` `Framer Motion`
 
 </td>
 </tr>
@@ -88,7 +94,7 @@ Terminal-themed personal site with scroll-driven case studies and a fully static
 <td width="50%" valign="top">
 
 ### 🛡️ [Empower Her](https://github.com/hardiksehgal2/Empower-Her)
-Women's safety app: live location sharing, parent-child chat, shake-to-alert, and one-tap police and hospital contacts.
+Women's safety app (academic project): live location sharing, parent-child chat, shake-to-alert and one-tap emergency services.
 
 `Flutter` `Firebase` `BLoC` `GetX`
 
@@ -96,13 +102,15 @@ Women's safety app: live location sharing, parent-child chat, shake-to-alert, an
 <td width="50%" valign="top">
 
 ### 🎨 [ChaiTailwind](https://github.com/hardiksehgal2/ChaiTailwind)
-A tiny utility-first CSS engine in the spirit of Tailwind: write `chai-*` classes and it scans the DOM and applies the styles at runtime. No build step, no dependencies. [Live demo](https://hardiksehgal2.github.io/ChaiTailwind)
+A tiny utility-first CSS engine: write `chai-*` classes and it scans the DOM and applies the styles at runtime. No build step, no dependencies. [Live demo](https://hardiksehgal2.github.io/ChaiTailwind)
 
 `JavaScript` `CSS` `DOM`
 
 </td>
 </tr>
 </table>
+
+<sub>My portfolio, [hardiksehgal.com](https://www.hardiksehgal.com), is open source too: [Hardik-Portfolio](https://github.com/hardiksehgal2/Hardik-Portfolio).</sub>
 
 ## Tech stack
 
@@ -115,22 +123,30 @@ A tiny utility-first CSS engine in the spirit of Tailwind: write `chai-*` classe
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,html,css&perline=10" alt="Frontend" />
 </p>
 <p align="center">
-  <b>Backend & Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,postgres,mongodb,redis,firebase&perline=10" alt="Backend and data" />
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,redis,docker,linux&perline=10" alt="Backend" />
 </p>
 <p align="center">
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,linux,git&perline=10" alt="DevOps and tools" />
+  <b>Data, Cloud & CI/CD</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,githubactions,git&perline=10" alt="Data, cloud and CI/CD" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 <p align="center">
   <b>AI / ML</b><br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" alt="LangSmith" />
   <img src="https://img.shields.io/badge/RAG-0ea5e9?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Mem0-111827?style=flat-square" alt="Mem0" />
-  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" alt="Deepgram" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Vector_Search-7c3aed?style=flat-square" alt="Vector search" />
+  <img src="https://img.shields.io/badge/Memory_Layer-111827?style=flat-square" alt="Memory layer" />
+  <img src="https://img.shields.io/badge/Voice_Agents-13EF93?style=flat-square" alt="Voice agents" />
 </p>
 
 ## GitHub activity
