@@ -69,46 +69,6 @@ Research-to-lab platform: learners understand a paper by running it, not just re
 </tr>
 </table>
 
-## Open-source projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 [InvoiceHub](https://github.com/hardiksehgal2/InvoiceHub)
-Full-stack invoice management: create, paginate, update status, export to PDF. Fastify API with Zod schemas, Swagger docs, and tested money and tax math.
-
-`Fastify` `TypeScript` `Prisma` `Zod` `React PDF` `Vitest`
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [Task Manager](https://github.com/hardiksehgal2/Task-manager)
-Kanban board with secure JWT auth: short-lived access tokens, hashed refresh tokens, silent refresh, edge route protection. [Live demo](https://task-manager-phi-green.vercel.app/)
-
-`Next.js` `Express` `JWT` `Axios` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Empower Her](https://github.com/hardiksehgal2/Empower-Her)
-Women's safety app (academic project): live location sharing, parent-child chat, shake-to-alert and one-tap emergency services.
-
-`Flutter` `Firebase` `BLoC` `GetX`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [ChaiTailwind](https://github.com/hardiksehgal2/ChaiTailwind)
-A tiny utility-first CSS engine: write `chai-*` classes and it scans the DOM and applies the styles at runtime. No build step, no dependencies. [Live demo](https://hardiksehgal2.github.io/ChaiTailwind)
-
-`JavaScript` `CSS` `DOM`
-
-</td>
-</tr>
-</table>
 
 <sub>My portfolio, [hardiksehgal.com](https://www.hardiksehgal.com), is open source too: [Hardik-Portfolio](https://github.com/hardiksehgal2/Hardik-Portfolio).</sub>
 
